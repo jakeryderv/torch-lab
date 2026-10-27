@@ -15,3 +15,6 @@ learn and experiment with pytorch
 | `torchtune` | Fine-tuning large language models |
 | `torchrl` | Reinforcement learning |
 | `torchrec` | Recommendation systems |
+
+
+[smp](https://github.com/qubvel-org/segmentation_models.pytorch)
